@@ -32,7 +32,6 @@ Length - color of line based on length of line
 
 Position - color of line based on position on circle
 
-
 Angle - color of line based on angle from positive x-axis
 
 Gray - grayscale color
@@ -43,3 +42,10 @@ This one is probably the most difficult to understand. There are specific 'shape
 When you change slider1, this formation will be lost. With shape toggled on, when changing slider1, the program will find the slider2 value corresponding to the same shape.
 
 You won't always be able to tell what the shape slider value should be and sometimes, the value may be higher than the slider's limit, but I've observed some patterns to help you. You should set the color mode to 'length' to see these patterns more easily. So, in this color mode, you can sometimes see concentrations on magenta along the perimeter of circle. The number of these concentrations should correspond to the shape slider number. Another shape is the circle. For circles, you can count the number of rings, and the shape slider value will be # rings * 2 (+1 if this formation doesn't have rays coming out the center).
+
+## Screenshots
+![alt text](https://github.com/AmaliJD/Modular-Multiplication-Circles/blob/main/Images/Screenshot%20(771).png?raw=true)
+![alt text](https://github.com/AmaliJD/Modular-Multiplication-Circles/blob/main/Images/Screenshot%20(775).png?raw=true)
+![alt text](https://github.com/AmaliJD/Modular-Multiplication-Circles/blob/main/Images/Screenshot%20(779).png?raw=true)
+![alt text](https://github.com/AmaliJD/Modular-Multiplication-Circles/blob/main/Images/Screenshot%20(785).png?raw=true)
+![alt text](https://github.com/AmaliJD/Modular-Multiplication-Circles/blob/main/Images/Screenshot%20(786).png?raw=true)
